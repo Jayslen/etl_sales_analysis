@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "etl_program"
+name = "ETL"
 version = "0.1.0"
